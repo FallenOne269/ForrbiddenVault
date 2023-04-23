@@ -1,1 +1,7 @@
 
+git clone https://github.com/Torantulino/Auto-GPT.git
+
+pip install -r requirements.txt
+
+python scripts/main.py
+
